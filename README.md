@@ -1,3 +1,17 @@
+# Coffee App
+
+A React web application for a coffee shop.
+
+## Pages
+- Home
+- Menu
+- About
+- Contact
+
+## Built With
+- React
+- React Router
+- CSS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

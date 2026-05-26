@@ -19,19 +19,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ### Menu Page
-![Menu Page](./screenshots/menu-hero.png)
+![Menu Page](screenshots/menu-hero.png)
 
 ### Menu Items
-![Menu Items](./screenshots/menu-items.png)
+![Menu Items](screenshots/menu-items.png)
 
 ### About Page
-![About Page](./screenshots/about.png)
+![About Page](screenshots/about.png)
 
 ### Contact Page
-![Contact Page](./screenshots/contact.png)
+![Contact Page](screenshots/contact.png)
 ## Available Scripts
 
 In the project directory, you can run:
